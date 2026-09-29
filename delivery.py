@@ -20,7 +20,7 @@ for p in partners:
     rating = p[5]
     idle_time = p[6]
 
-    # Only available partners are considered
+ 
     if status == 0:
         continue
 
